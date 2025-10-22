@@ -33,3 +33,4 @@
 
 # Build dir
 zal/build/**/*
+build/
